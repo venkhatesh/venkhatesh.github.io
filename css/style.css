@@ -428,7 +428,7 @@ li.activa{
 	margin-bottom: 80px;
 }
 .resume-title{
-
+	text-transform: capitalize;
 }
 .resume-box.last{
 	margin-bottom: 0px;
@@ -587,9 +587,12 @@ li.activa{
 	color: #B9D0E1;
 }
 .contact-form .btn-default{
-	background: #FFFFFF;
-	border: 0px;
-	color: #3500D3;
+	
+background: #FFFFFF;
+	
+border: 0px;
+	
+color: #3500D3;
 }
 
 
